@@ -1,0 +1,28 @@
+{
+    // --- Aparência ---
+    "editor.fontFamily": "'JetBrains Mono', monospace",
+    "editor.fontLigatures": true,
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.orientation": "vertical",
+    "workbench.iconTheme": "symbols",
+    "workbench.colorTheme": "Dracula Theme",
+
+    // --- Autocomplete ---
+    "editor.quickSuggestions": {
+      "other": false,
+      "comments": false,
+      "strings": false
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.inlineSuggest.enabled": false,
+    "editor.parameterHints.enabled": false,
+    "cursor.autocomplete.experimental": false,
+  
+    // --- Outras recomendações opcionais ---
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "boundary",
+    "workbench.startupEditor": "none",
+    "window.commandCenter": true,
+    "files.autoSave": "afterDelay",
+    "symbols.hidesExplorerArrows": false,
+}
