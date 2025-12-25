@@ -1,0 +1,15 @@
+{
+    "workbench.iconTheme": "symbols",
+    "workbench.colorTheme": "Min Darkest Dracula",
+    "workbench.sideBar.location": "right",
+    "files.autoSave": "afterDelay",
+    "redhat.telemetry.enabled": true,
+    "editor.formatOnSave": true,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+}
